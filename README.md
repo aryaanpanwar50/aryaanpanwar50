@@ -6,7 +6,7 @@
 <h2 align="center">ꜱᴏᴄɪᴀʟꜱ</h2>
 <p align="center"> 
   <a href="www.linkedin.com/in/aryaan-panwar-5668b8269" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="[https://leetcode.com/u/reacharman/](https://leetcode.com/u/mrunknown009/)" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
+  <a href="https://leetcode.com/u/mrunknown009/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
 </p>
 
 <h2 align="center">ᴛᴇᴄʜɴᴏʟᴏɢɪᴄᴀʟ ꜱᴛᴀᴄᴋ</h2>
